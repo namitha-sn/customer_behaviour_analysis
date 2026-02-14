@@ -33,3 +33,5 @@ MySQL 8.0 – Database management and SQL analysis
 Power BI Desktop – Interactive dashboard creation
 VS Code – SQL scripting
 MySQL Command Line / Workbench – Query execution
+
+NOTE:SQL QUESTIONS AND CODE IS INSIDE UNTITLED-1
